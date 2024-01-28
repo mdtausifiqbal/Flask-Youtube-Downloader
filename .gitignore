@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+pip-selfcheck.json
+
+# IDE
+.idea/
+
+# Flask specific
+instance/
+.webassets-cache
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Backup files
+*~
+
+# .env file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# Flask debug logs
+*.log
